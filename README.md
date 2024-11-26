@@ -8,7 +8,6 @@ This section highlights the Machine Learning techniques I have deployed in my pr
 - 🎯 **K-Means Clustering**  
 - 🚀 **XGBoost**  
 - 🌲 **Random Forest**  
-- 🤖 **K-Nearest Neighbour (KNN)**
 
 ---
 
@@ -16,5 +15,6 @@ This section highlights the Machine Learning techniques I have deployed in my pr
 As I continue to grow my skills, I plan to cover the following techniques in upcoming projects and studies:
 - 🧠 **Neural Networks (Deep Learning)**  
 - 🔍 **Support Vector Machines (SVM)**   
-- 🌌 **Natural Language Processing (NLP)**  
+- 🌌 **Natural Language Processing (NLP)**
+- 🤖 **K-Nearest Neighbour (KNN)**
 ---
